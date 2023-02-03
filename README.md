@@ -11,7 +11,7 @@
 <kbd>![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) </kbd>
 
 
-### Social Medias
+### Social Medias 💭
 
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=luspita&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" align="right"
