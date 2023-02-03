@@ -8,21 +8,13 @@
      alt="Github stats" width="500">
 
 [<kbd>![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/luiz_luspa)
+[<kbd>![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/Luspa)
  
-[<kbd>![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)</kbd>](https://discord.com/users/800151407445540904)
-[<kbd>![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alirpereira887@gmail.com)
 
 ### My Fav Tools
-<kbd>![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) </kbd>
-<kbd>![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) </kbd>
 
-<kbd> ![julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) </kbd>
-<kbd>![python](https://img.shields.io/badge/C++-0E59A1?style=for-the-badge&logo=c%2B%2B&logoColor=white) </kbd>
-
+     
 <kbd>![git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) </kbd>
-<kbd>![latex](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) </kbd>
-<kbd>![docker](https://img.shields.io/badge/docker-18BECD?style=for-the-badge&logo=docker&logoColor=white) </kbd>
-
-<kbd>![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white) </kbd>
-<kbd>![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) </kbd>
-<kbd> ![Vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) </kbd>
+<kbd>![Vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) </kbd>
+<kbd>![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) </kbd>
+<kbd>![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) </kbd>
