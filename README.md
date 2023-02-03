@@ -5,7 +5,7 @@
 
 
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=luspita&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" align="right"
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=luspita&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" align="top-right"
      alt="Github stats" width="430"> 
      
         
